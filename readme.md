@@ -1,5 +1,7 @@
 # git-remote-upstream-url [![Build Status](https://travis-ci.org/RichardLitt/git-remote-upstream-url.svg?branch=master)](https://travis-ci.org/RichardLitt/git-remote-upstream-url)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/git-remote-upstream-url.svg)](https://greenkeeper.io/)
+
 > Get the remote upstream url of a git repository
 
 Based entirely on [Sindre Sorhus' git-remote-origin-url](//github.com/sindresorhus/git-remote-origin-url).
