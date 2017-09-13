@@ -18,8 +18,8 @@
     "test": "xo && ava"
   },
   "dependencies": {
-    "gitconfiglocal": "^1.0.0",
-    "pify": "^2.3.0"
+    "gitconfiglocal": "^2.0.1",
+    "pify": "^3.0.0"
   },
   "devDependencies": {
     "ava": "*",
